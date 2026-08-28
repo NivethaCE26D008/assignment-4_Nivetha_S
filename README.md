@@ -6,7 +6,7 @@ Course: CV5101 – Modelling, Uncertainty, and Data for Engineers
 
 *Written by: `pradeep, prakash, and sudheendra`*
 
-*Due: `Sunday, Sep 6, 2026`*
+*Due: `Sunday, Sep 6, 2026 at 6:00 pm`*
 
 🚀 Overview
 
